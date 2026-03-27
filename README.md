@@ -118,14 +118,3 @@ ai-web-scraper/
 * Handles **multi-page scraping efficiently**
 * Designed with **modular and scalable architecture**
 
----
-
-## Contributing
-
-Feel free to fork the repository and submit pull requests.
-
----
-
-## License
-
-This project is open-source and available under the MIT License.
