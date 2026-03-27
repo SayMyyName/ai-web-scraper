@@ -45,7 +45,7 @@ It supports **multi-page scraping, parallel processing, and structured data expo
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/ai-web-scraper.git
+git clone https://github.com/SayMyyName/ai-web-scraper.git
 cd ai-web-scraper
 pip install -r requirements.txt
 ```
